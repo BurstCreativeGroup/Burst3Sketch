@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A3075519-B731-4244-B929-3159EC6420BA",
+  "do_objectID": "6CE6D78C-DBE7-495D-8474-B707A5E15560",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCB1FAFF-7E65-4234-95A8-3DDEDBBFA999",
+    "do_objectID": "B6444B14-ADC6-4417-A81E-32E1606CF1A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B4C05DA9-A397-44BE-B5FF-A6D33484BFCB",
-    "height": 222,
-    "width": 1920,
-    "x": 0,
-    "y": -4
+    "do_objectID": "E894AB3D-1858-4AC3-88BF-3CFA6BA04FA8",
+    "height": 892,
+    "width": 522,
+    "x": 1398,
+    "y": 5050
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DECE9EE2-0D67-46E3-B194-F66EF8A449BC"
+      "id": "2E902782-C17D-4EA3-B135-B052FC2D841B"
     }
   ],
-  "name": "Rectangle Copy",
+  "name": "Rectangle 4 Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,15 +44,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "B6C97069-3DB5-454F-AB14-400B409E033E",
-      "isEnabled": false,
-      "motionAngle": 39.98381415109714,
-      "radius": 0,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -64,12 +55,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 2,
+        "isEnabled": true,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "53AFB0A9-DF47-4207-894D-0ACC39EC40C7",
+    "do_objectID": "9CFF2125-2727-4869-AA6A-08BA159D1CDB",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,51 +80,7 @@
         "patternTileScale": 1
       }
     ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 3,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

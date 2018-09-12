@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 75
+              "size": 35
             }
           },
           "paragraphStyle": {
@@ -25,19 +25,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 116,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Desktop\nH1 - 75px\nH2 - 60px\nH3 - 50px\nP - 35px\n\nTabelet\nH1 - 75px\nH2 - \nH3 - \nP -\n\nMobile\nH1 - 75px\nH2 - \nH3 - \nP - "
+    "string": "About"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "9BF8BCF6-A438-409C-8D82-8C1C8CBDFE15",
+  "do_objectID": "1FFB47FB-5D1E-4383-AD00-9EB297D293B7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7317275A-1CA8-447A-BDF3-35796799F639",
+    "do_objectID": "823CA65B-3BE4-49E6-BC22-8AE2E8988049",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4CA6E27C-532B-4C01-8DA2-D2023384FDF3",
-    "height": 1927,
-    "width": 572,
-    "x": -1254,
-    "y": -374
+    "do_objectID": "4D3976EF-D5D6-4CBF-A5B6-28DBBB6D8B47",
+    "height": 42,
+    "width": 92,
+    "x": 1376,
+    "y": 75
   },
-  "glyphBounds": "{{0, 19}, {325, 1494}}",
+  "glyphBounds": "{{0, 8}, {91, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,21 +62,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Desktop H1 - 75px H2",
+  "name": "About",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D5817FD7-585A-4C7C-8165-B725EA75A04A",
+    "do_objectID": "4ACF2024-8132-4C37-BE5A-A9C2C03A6272",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DFE3B9EF-0534-4339-B90A-D8B8C7210EF7",
+      "do_objectID": "F3FFFA46-B16E-47A3-ADEE-B8C057B5B06D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,7 +89,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 75
+            "size": 35
           }
         },
         "paragraphStyle": {
@@ -101,11 +101,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

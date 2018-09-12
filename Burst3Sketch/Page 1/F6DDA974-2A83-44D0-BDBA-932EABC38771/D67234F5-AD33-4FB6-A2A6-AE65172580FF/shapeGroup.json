@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A3075519-B731-4244-B929-3159EC6420BA",
+  "do_objectID": "D67234F5-AD33-4FB6-A2A6-AE65172580FF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCB1FAFF-7E65-4234-95A8-3DDEDBBFA999",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B4C05DA9-A397-44BE-B5FF-A6D33484BFCB",
-    "height": 222,
+    "height": 1497,
     "width": 1920,
     "x": 0,
-    "y": -4
+    "y": 218
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "DECE9EE2-0D67-46E3-B194-F66EF8A449BC"
+      "id": "9622629D-3C3A-4490-BD89-697196360224"
     }
   ],
-  "name": "Rectangle Copy",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,11 +45,10 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "B6C97069-3DB5-454F-AB14-400B409E033E",
       "isEnabled": false,
-      "motionAngle": 39.98381415109714,
+      "motionAngle": 214.9076638231876,
       "radius": 0,
-      "type": 0
+      "type": 1
     },
     "borders": [
       {
@@ -65,21 +62,20 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 2,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "53AFB0A9-DF47-4207-894D-0ACC39EC40C7",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "alpha": 0.9930649909420289,
+          "blue": 0.9647058823529412,
+          "green": 0.9647058823529412,
+          "red": 0.9647058823529412
         },
         "fillType": 0,
         "isEnabled": true,
@@ -87,28 +83,6 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      }
-    ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 3,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
       }
     ],
     "miterLimit": 10,
