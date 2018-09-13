@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "840BF1D2-E1C7-40E3-AF82-1D1A47A42ECB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 1238,
+    "x": 367,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F9F6D5E3-6958-40C3-B67A-827C70E12B77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEAC72D6-DC5F-4B9B-B2DD-DE2B104AC548"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5438BB0-D373-4C2D-B50F-99528EE2F653"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A94A4C3-2EBC-449C-BE96-238398DAC63D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "871CB05F-4230-4A3C-8D33-47BB48886C5D"
+    }
+  ],
+  "name": "lines inbetween word",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

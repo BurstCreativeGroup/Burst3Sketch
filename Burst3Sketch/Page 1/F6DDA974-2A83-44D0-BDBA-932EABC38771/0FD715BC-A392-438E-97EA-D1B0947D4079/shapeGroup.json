@@ -25,7 +25,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -34,8 +34,8 @@
       "id": "2D96F207-97F6-4D9B-A0A7-D8BF9E08E390"
     }
   ],
-  "name": "Rectangle 10",
-  "nameIsFixed": false,
+  "name": "Grey box for footer",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

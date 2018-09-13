@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "1CE7A8BE-D435-4874-9E01-8A7E5F6A04AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 687,
+    "width": 533,
+    "x": 0,
+    "y": 5914
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08D6D187-1E27-4D14-865B-91C36C65158D"
+    },
+    {
+      "class": "group",
+      "id": "7B936670-1D3F-4260-9678-45CE47EB452F"
+    },
+    {
+      "class": "text",
+      "id": "640093BE-0AC1-487F-AE0B-0BDA2447DA45"
+    },
+    {
+      "class": "text",
+      "id": "403EA3F7-1412-4A82-A4A3-D73F51B98BB6"
+    },
+    {
+      "class": "text",
+      "id": "B3A75513-3D28-4487-A919-816B6539A50A"
+    },
+    {
+      "class": "text",
+      "id": "3F1612EF-47AF-4A6B-BB73-4CE19E9C7DA7"
+    },
+    {
+      "class": "text",
+      "id": "FFCC599E-9149-4A63-BA0A-E1DC80C02471"
+    },
+    {
+      "class": "text",
+      "id": "CC952778-47C2-4A73-A1C2-1CE0C5251865"
+    },
+    {
+      "class": "group",
+      "id": "DE055134-2C1E-441F-89FB-0CB7C63E762B"
+    },
+    {
+      "class": "group",
+      "id": "980AF21C-054B-4436-9A6A-6F9B9C0DF9DA"
+    },
+    {
+      "class": "group",
+      "id": "64D21439-6971-41E0-9519-A080F01DFE91"
+    },
+    {
+      "class": "group",
+      "id": "777F9CA7-A48E-4E93-9E2C-6B9CB4FEA565"
+    },
+    {
+      "class": "text",
+      "id": "BBE414D2-3EBA-4BF4-BE01-4B20017006A5"
+    },
+    {
+      "class": "text",
+      "id": "5302C4FC-C483-4D34-8164-A71032B3245C"
+    },
+    {
+      "class": "text",
+      "id": "96DA4FD5-6CA1-47E7-B366-4D813A4434DA"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

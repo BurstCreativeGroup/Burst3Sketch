@@ -20,7 +20,7 @@
     "height": 10,
     "width": 131,
     "x": 893,
-    "y": 4793
+    "y": 5069
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,8 +36,8 @@
       "id": "1BD39BDF-E6A7-4D55-AE47-7C95740E8C02"
     }
   ],
-  "name": "Rectangle 5 Copy 3",
-  "nameIsFixed": false,
+  "name": "Fancy line ",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

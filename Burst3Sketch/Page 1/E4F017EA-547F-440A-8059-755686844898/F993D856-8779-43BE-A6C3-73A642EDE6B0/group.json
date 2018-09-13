@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F993D856-8779-43BE-A6C3-73A642EDE6B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 813,
+    "x": 144,
+    "y": 1001
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C62008C-1482-4625-983B-EA148F2897D3"
+    },
+    {
+      "class": "text",
+      "id": "16E6E0E7-CC6C-41B2-90AB-3B63D9C3CAEF"
+    },
+    {
+      "class": "text",
+      "id": "CCCFD8F1-A95B-4F37-B91A-08F3AA27CFF4"
+    },
+    {
+      "class": "text",
+      "id": "6441C6DF-02DC-4156-9B2B-4F4224EC5E38"
+    }
+  ],
+  "name": "SEO TITLE - Lorem Ipsum",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

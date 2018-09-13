@@ -34,8 +34,8 @@
       "id": "30A0EEF5-F475-4694-9B62-EE9BA4D0766F"
     }
   ],
-  "name": "Rectangle 17",
-  "nameIsFixed": false,
+  "name": "REctangle for VIDEO",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
