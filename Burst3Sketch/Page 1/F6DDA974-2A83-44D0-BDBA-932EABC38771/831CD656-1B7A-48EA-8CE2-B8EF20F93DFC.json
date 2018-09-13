@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Light",
+              "name": "Helvetica-Bold",
               "size": 35
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Portfolio"
+    "string": "PORTOFLIO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "5E63A7FB-704E-4E0C-9AD7-D21A19B3E8F7",
     "height": 42,
-    "width": 128,
-    "x": 1113,
-    "y": 82
+    "width": 204,
+    "x": 1055,
+    "y": 86
   },
-  "glyphBounds": "{{2, 8}, {124, 27}}",
+  "glyphBounds": "{{2, 8}, {201, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Portfolio",
+  "name": "PORTOFLIO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,14 +81,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Light",
+            "name": "Helvetica-Bold",
             "size": 35
           }
         },

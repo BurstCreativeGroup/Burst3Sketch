@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Helvetica-Bold",
               "size": 60
             }
           },
@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "WEB DESIGN"
+    "string": "RISUS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "9A014FAB-91ED-4518-B702-9DE72AA19E2B",
     "height": 72,
-    "width": 384,
-    "x": 396,
-    "y": 3399
+    "width": 184,
+    "x": 868,
+    "y": 6712
   },
-  "glyphBounds": "{{1, 13}, {378, 47}}",
+  "glyphBounds": "{{4, 13}, {178, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "WEB DESIGN",
+  "name": "RISUS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Helvetica-Bold",
             "size": 60
           }
         },

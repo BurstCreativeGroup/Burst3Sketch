@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Light",
+              "name": "Helvetica-Bold",
               "size": 35
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Services"
+    "string": "SERVICES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 42,
-    "width": 135,
-    "x": 602,
-    "y": 82
+    "width": 177,
+    "x": 544,
+    "y": 86
   },
-  "glyphBounds": "{{1, 8}, {132, 27}}",
+  "glyphBounds": "{{1, 8}, {175, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Services",
+  "name": "SERVICES",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -77,14 +77,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Light",
+            "name": "Helvetica-Bold",
             "size": 35
           }
         },

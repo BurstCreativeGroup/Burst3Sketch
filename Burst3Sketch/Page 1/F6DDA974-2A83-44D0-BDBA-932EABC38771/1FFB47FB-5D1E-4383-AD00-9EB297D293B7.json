@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Light",
+              "name": "Helvetica-Bold",
               "size": 35
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "About"
+    "string": "ABOUT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "4D3976EF-D5D6-4CBF-A5B6-28DBBB6D8B47",
     "height": 42,
-    "width": 94,
-    "x": 1367,
-    "y": 82
+    "width": 125,
+    "x": 1309,
+    "y": 86
   },
-  "glyphBounds": "{{0, 8}, {93, 27}}",
+  "glyphBounds": "{{0, 8}, {125, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "About",
+  "name": "ABOUT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,14 +81,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Light",
+            "name": "Helvetica-Bold",
             "size": 35
           }
         },
