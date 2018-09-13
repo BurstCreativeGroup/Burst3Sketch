@@ -60,6 +60,10 @@
     },
     {
       "class": "text",
+      "id": "51D359FE-FA91-4AB0-AD8A-25E4E6E206E6"
+    },
+    {
+      "class": "text",
       "id": "6EFB9A39-5312-498D-9D59-B15EBDDDB342"
     },
     {
@@ -97,6 +101,10 @@
     {
       "class": "text",
       "id": "DA7BFE7E-2567-4BE0-94D3-EFC669831949"
+    },
+    {
+      "class": "artboard",
+      "id": "D79439C1-C913-4280-BB8F-2A26D95F6518"
     }
   ],
   "name": "Page 1",
