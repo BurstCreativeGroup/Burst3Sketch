@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 60
+              "name": "Helvetica-Light",
+              "size": 35
             }
           },
           "paragraphStyle": {
@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Check out our Latest Work"
+    "string": "WANT TO SEE MORE?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FC613DB6-87EF-4931-8916-D1EF8A32324B",
-    "height": 72,
-    "width": 710,
-    "x": 623,
-    "y": 6757
+    "height": 42,
+    "width": 357,
+    "x": 814,
+    "y": 7900
   },
-  "glyphBounds": "{{2, 13}, {708, 47}}",
+  "glyphBounds": "{{0, 8}, {356, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Check out our Latest",
+  "name": "WANT TO SEE MORE?",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 60
+            "name": "Helvetica-Light",
+            "size": 35
           }
         },
         "paragraphStyle": {

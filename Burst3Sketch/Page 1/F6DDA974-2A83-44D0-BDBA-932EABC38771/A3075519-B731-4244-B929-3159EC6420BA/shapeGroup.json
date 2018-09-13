@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4C05DA9-A397-44BE-B5FF-A6D33484BFCB",
-    "height": 222,
+    "height": 239,
     "width": 1920,
     "x": 0,
-    "y": -4
+    "y": -3
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -77,9 +77,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9137254901960784,
+          "green": 0.9137254901960784,
+          "red": 0.9137254901960784
         },
         "fillType": 0,
         "isEnabled": true,

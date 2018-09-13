@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 50
+              "size": 60
             }
           },
           "paragraphStyle": {
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Web Development"
+    "string": "WEB DEVELOPMENT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "22F44C43-6596-44DD-8FC5-1C56E766F6E9",
-    "height": 60,
-    "width": 411,
-    "x": 1241,
-    "y": 3026
+    "height": 72,
+    "width": 607,
+    "x": 1073,
+    "y": 4242
   },
-  "glyphBounds": "{{0, 13}, {410, 47}}",
+  "glyphBounds": "{{1, 13}, {606, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Web Development",
+  "name": "WEB DEVELOPMENT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 50
+            "size": 60
           }
         },
         "paragraphStyle": {

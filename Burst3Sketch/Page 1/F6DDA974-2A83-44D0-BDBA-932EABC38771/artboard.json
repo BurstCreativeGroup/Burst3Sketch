@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7999,
+    "height": 10333,
     "width": 1920,
     "x": -478,
     "y": -25
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,10 +47,6 @@
     {
       "class": "shapeGroup",
       "id": "A3075519-B731-4244-B929-3159EC6420BA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "02F87E8F-BAC5-46AA-9B87-1DEDE0708C19"
     },
     {
       "class": "text",
@@ -77,12 +73,12 @@
       "id": "EEE77D48-25C3-4D06-8D69-2DCFE0CDF967"
     },
     {
-      "class": "text",
-      "id": "64697C1D-C2B7-4D43-9193-C67E114A8BC7"
+      "class": "shapeGroup",
+      "id": "D67234F5-AD33-4FB6-A2A6-AE65172580FF"
     },
     {
       "class": "shapeGroup",
-      "id": "D67234F5-AD33-4FB6-A2A6-AE65172580FF"
+      "id": "A36E8DB9-285A-4858-925D-C8D28E21E3DD"
     },
     {
       "class": "text",
@@ -95,50 +91,6 @@
     {
       "class": "text",
       "id": "43419AF0-AE9A-448D-BBBE-0085F071F5F7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "03D7AD5B-6D12-41CB-BD46-8A214AE0914F"
-    },
-    {
-      "class": "text",
-      "id": "F97AAFF9-2E48-4FE5-89B0-FA84F8E94BDE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2A77E099-0798-4A10-A26C-6ED3957A0F1F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6CBE28D9-D4A6-4209-9151-B56CC4EF9F19"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EAFC1933-60C5-4D10-A0F3-0F623C0E41D0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FE1056A9-505D-40B9-A050-A58241931FC5"
-    },
-    {
-      "class": "text",
-      "id": "F88AC696-570B-4662-9516-421233ADEC03"
-    },
-    {
-      "class": "text",
-      "id": "CFCCACCE-1629-45B1-8F1A-3ED733E172F7"
-    },
-    {
-      "class": "text",
-      "id": "245B970D-5FDF-4629-A140-81B87E9742FF"
-    },
-    {
-      "class": "text",
-      "id": "784C6AB3-A4B8-4F80-9B9A-801AB42901FF"
-    },
-    {
-      "class": "text",
-      "id": "D1722C67-CF0C-4BEB-AAEE-112C2252FFF3"
     },
     {
       "class": "shapeGroup",
@@ -159,6 +111,102 @@
     {
       "class": "shapeGroup",
       "id": "CBD39343-3F6D-4CD1-B6E8-AD2FD1972E8F"
+    },
+    {
+      "class": "group",
+      "id": "4A175FD6-0D9B-4D08-A9CD-066BF699970D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4928DCD-46E7-4C24-B000-01090565302E"
+    },
+    {
+      "class": "text",
+      "id": "F97AAFF9-2E48-4FE5-89B0-FA84F8E94BDE"
+    },
+    {
+      "class": "text",
+      "id": "BE1494AF-50AA-4F92-B9F9-B655ECA4736E"
+    },
+    {
+      "class": "text",
+      "id": "82DB6622-2B41-40AC-93CC-35FE2BDA8527"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD2B7772-D2C7-41A4-A48A-18F887FF4C09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17E12280-7FEB-47F4-9A5D-7FB16D302C49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C3609E8-7C2F-4BF1-A4F3-61D50A2CA24A"
+    },
+    {
+      "class": "group",
+      "id": "0DD8B2B1-53D0-42DC-A52C-1C5E00692571"
+    },
+    {
+      "class": "group",
+      "id": "36C0D135-E046-4167-9C43-3A14FB7C1F96"
+    },
+    {
+      "class": "group",
+      "id": "49B7D5C2-FA07-463D-BC93-E0070EBB2195"
+    },
+    {
+      "class": "text",
+      "id": "F88AC696-570B-4662-9516-421233ADEC03"
+    },
+    {
+      "class": "text",
+      "id": "77591EAD-7888-4E69-9A03-0EAF22068E32"
+    },
+    {
+      "class": "text",
+      "id": "EA803409-A821-4F80-9DDC-970DB62E2B16"
+    },
+    {
+      "class": "text",
+      "id": "9FEE01A4-994B-4CB0-96D8-DE2FFD42812B"
+    },
+    {
+      "class": "text",
+      "id": "5B694771-6CDF-4F32-B82C-5186934AF6CE"
+    },
+    {
+      "class": "text",
+      "id": "C78F6B56-6ECF-4802-89DC-0574D3DDB77F"
+    },
+    {
+      "class": "text",
+      "id": "43CA76B6-777B-437D-8267-3D92774C4486"
+    },
+    {
+      "class": "text",
+      "id": "E43F1087-F22C-4A0E-98FF-640921ED452B"
+    },
+    {
+      "class": "text",
+      "id": "085CEFBC-733D-44B6-A675-549BED269CD0"
+    },
+    {
+      "class": "text",
+      "id": "C9BC7898-F66D-4CB4-AC92-19E6F4ED1E17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB8B46E9-0322-4771-AA0B-8A952844778E"
+    },
+    {
+      "class": "text",
+      "id": "784C6AB3-A4B8-4F80-9B9A-801AB42901FF"
+    },
+    {
+      "class": "text",
+      "id": "985235BA-765B-4EFF-B8BE-E6575F5F481D"
     }
   ],
   "name": "Apple TV",

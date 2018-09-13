@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Helvetica-Light",
               "size": 35
             }
           },
@@ -49,8 +49,8 @@
     "constrainProportions": false,
     "height": 42,
     "width": 135,
-    "x": 727,
-    "y": 77
+    "x": 602,
+    "y": 82
   },
   "glyphBounds": "{{1, 8}, {132, 27}}",
   "isFixedToViewport": false,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Helvetica-Light",
             "size": 35
           }
         },
