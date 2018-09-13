@@ -45,20 +45,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "A3075519-B731-4244-B929-3159EC6420BA"
-    },
-    {
-      "class": "text",
-      "id": "88FAC614-1796-46B7-908E-75CB354A3483"
-    },
-    {
       "class": "text",
       "id": "FCA6E1BA-A01F-45D9-88BA-61EFD1F23B6F"
-    },
-    {
-      "class": "text",
-      "id": "33C7A5FA-FC17-49C0-B83C-263F5272E75E"
     },
     {
       "class": "shapeGroup",
@@ -85,28 +73,8 @@
       "id": "5E8357F4-75CA-40BC-9624-CBA4EEEB40B7"
     },
     {
-      "class": "text",
-      "id": "831CD656-1B7A-48EA-8CE2-B8EF20F93DFC"
-    },
-    {
-      "class": "text",
-      "id": "1FFB47FB-5D1E-4383-AD00-9EB297D293B7"
-    },
-    {
-      "class": "text",
-      "id": "15B42D55-AAEF-4181-96FF-6AD12DDF3753"
-    },
-    {
-      "class": "text",
-      "id": "EEE77D48-25C3-4D06-8D69-2DCFE0CDF967"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D67234F5-AD33-4FB6-A2A6-AE65172580FF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A36E8DB9-285A-4858-925D-C8D28E21E3DD"
+      "class": "group",
+      "id": "47F5C98F-A011-4336-AF7B-E6F0763F26AC"
     },
     {
       "class": "text",
@@ -130,7 +98,7 @@
     },
     {
       "class": "group",
-      "id": "4A175FD6-0D9B-4D08-A9CD-066BF699970D"
+      "id": "09115D29-CF11-4530-BB8C-1901DD4ED162"
     },
     {
       "class": "shapeGroup",
@@ -247,6 +215,10 @@
     {
       "class": "text",
       "id": "784C6AB3-A4B8-4F80-9B9A-801AB42901FF"
+    },
+    {
+      "class": "text",
+      "id": "7D8C5E04-3646-4141-ABA3-F702BA59E35C"
     },
     {
       "class": "text",
@@ -381,8 +353,8 @@
       "id": "871CB05F-4230-4A3C-8D33-47BB48886C5D"
     }
   ],
-  "name": "Apple TV",
-  "nameIsFixed": false,
+  "name": "Home - Desktop",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1080,
