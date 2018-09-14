@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8337F21A-8123-4A80-99BB-29095858A4B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59CE68B4-7528-4B1B-A67B-DD9D7A4790B1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "159BFE5E-88BD-40E7-AA00-6D315160EE58",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57CB72FB-79B4-4F59-BE84-4DD8767745F8",
+    "height": 23,
+    "width": 24,
+    "x": 696,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "685F98A5-8387-4443-A62A-539B36AD2DCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05DEE8B5-EDE3-405C-AC3F-09F7D2C2024E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C0AA0AE-7ACE-4F23-B2C8-F3CD35E5D949"
+    }
+  ],
+  "name": "Instagram Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6C7FBB8-C048-4426-838E-87B9F92FA698",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

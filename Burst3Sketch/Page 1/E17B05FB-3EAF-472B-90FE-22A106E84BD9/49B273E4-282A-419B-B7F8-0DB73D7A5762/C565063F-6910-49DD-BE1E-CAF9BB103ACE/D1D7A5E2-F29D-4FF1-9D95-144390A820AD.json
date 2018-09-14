@@ -42,6 +42,24 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
@@ -49,6 +67,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 76,
+            "enabled": 1,
+            "modelID": "constraint_a100b571-98cc-4c70-85d8-bd1ecdb20f23",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 76
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b4a485fd-39f8-4c5b-a581-e1e9e77ae979",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

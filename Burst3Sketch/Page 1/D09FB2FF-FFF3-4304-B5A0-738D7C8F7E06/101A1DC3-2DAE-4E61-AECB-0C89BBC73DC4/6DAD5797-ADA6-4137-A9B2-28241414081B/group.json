@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6DAD5797-ADA6-4137-A9B2-28241414081B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6048CDBF-2CBD-45D7-B68A-3E1100E72878",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E192CDFF-330E-4022-8AFD-E80369320A4D",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3025813-EB84-4837-A919-741FBA554154",
+    "height": 23,
+    "width": 24,
+    "x": 660,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED7E2C1D-A1E2-4BCE-B230-960AB4EC0043"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A18ED20D-9500-4C38-8164-4201E70030FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FF9F533-CFED-4E47-BA42-CE83D6903228"
+    }
+  ],
+  "name": "Facebook Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE9042D4-78E2-4B65-B163-11BED3A4FD9A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

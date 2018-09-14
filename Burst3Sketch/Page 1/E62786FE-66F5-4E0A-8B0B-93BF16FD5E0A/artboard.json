@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3683,
+    "height": 3462,
     "width": 375,
     "x": 12843,
     "y": 19
@@ -47,6 +47,42 @@
     {
       "class": "group",
       "id": "AA588755-1801-46BF-A878-1A4B9E3B2A57"
+    },
+    {
+      "class": "text",
+      "id": "7296C374-904F-4647-8FAB-0CC1BD058A93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7170021B-4492-44C0-9066-513F68B5D596"
+    },
+    {
+      "class": "group",
+      "id": "4C7C77E3-E119-4228-A0EF-4FC208C59863"
+    },
+    {
+      "class": "group",
+      "id": "8511D91D-969C-4F8D-96C3-64370CF7CFA4"
+    },
+    {
+      "class": "group",
+      "id": "5DB53853-29A2-4755-973B-C875A75E2E53"
+    },
+    {
+      "class": "group",
+      "id": "42BAA80B-7A9C-4F50-ACC1-A6BFCAB88515"
+    },
+    {
+      "class": "group",
+      "id": "FAD9AA5D-3018-4DF1-A215-E44B66C5CE82"
+    },
+    {
+      "class": "group",
+      "id": "15B88641-877E-4C4C-AD6A-3F514D4D3430"
+    },
+    {
+      "class": "group",
+      "id": "1B5C696D-4625-4EA2-BA13-7A44520A1084"
     }
   ],
   "name": "Services - Web Design  - Iphone8",
@@ -69,6 +105,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

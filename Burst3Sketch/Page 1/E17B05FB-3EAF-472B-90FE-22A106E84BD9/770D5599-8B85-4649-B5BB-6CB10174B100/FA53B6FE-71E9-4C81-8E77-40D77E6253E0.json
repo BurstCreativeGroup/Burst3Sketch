@@ -41,7 +41,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": -0.4542863175675675,
+      "contrast": 1,
+      "hue": -1.091530977931166,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
@@ -49,6 +75,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 200,
+            "enabled": 1,
+            "modelID": "constraint_6941b735-8982-4f59-9db0-fd5c54eb360f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 200
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ce2b7d0b-78f2-4572-a8cb-f650a7b84825",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

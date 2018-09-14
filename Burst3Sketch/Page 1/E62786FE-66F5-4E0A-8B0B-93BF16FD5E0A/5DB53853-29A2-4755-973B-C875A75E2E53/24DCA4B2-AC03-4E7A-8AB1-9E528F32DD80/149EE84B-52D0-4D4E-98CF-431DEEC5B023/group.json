@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "149EE84B-52D0-4D4E-98CF-431DEEC5B023",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF2AA842-BA80-4AEF-9A2B-F0127A402A4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E8F6AF7-4B1A-4CC2-A7ED-ADD49AE6EDD0",
+    "height": 135,
+    "width": 276,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EE79B7B9-3C77-4986-AD87-A9394778AF85"
+    },
+    {
+      "class": "bitmap",
+      "id": "460BDC7D-7DAC-4F92-A05B-A8188B73EB30"
+    },
+    {
+      "class": "bitmap",
+      "id": "CFB145FE-A9C7-4EFD-BB34-297AA2B52525"
+    }
+  ],
+  "name": "Desktop/Ipad/Iphone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F91A70E4-58A9-45A7-8AA2-E52C99F120B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
