@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "D79439C1-C913-4280-BB8F-2A26D95F6518",
+  "do_objectID": "E17B05FB-3EAF-472B-90FE-22A106E84BD9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5898,
+    "height": 4232,
     "width": 1920,
-    "x": 4364,
+    "x": 6612,
     "y": -25
   },
   "hasBackgroundColor": false,
@@ -46,26 +46,18 @@
   "layers": [
     {
       "class": "group",
-      "id": "BCC392CF-F06E-49AC-B0E8-ED8E02E4BFB8"
+      "id": "173847BA-10AB-46E0-9BCF-AFF4778E8B38"
     },
     {
       "class": "group",
-      "id": "3F1ABF01-9412-497A-BFF2-7B67F8C4B588"
+      "id": "9BBE11D9-A20F-45AB-9D99-8744C54EB221"
     },
     {
-      "class": "group",
-      "id": "5BB96B1A-8AFC-4A87-A79F-34EA4E95CA41"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B9740D8B-62EC-4E81-A43A-4022DA7EF217"
-    },
-    {
-      "class": "group",
-      "id": "CE895ADB-9D1C-4DB7-BFC9-95B6B4A4FD1C"
+      "class": "text",
+      "id": "79C977DB-9965-4D85-9B64-366C8B002252"
     }
   ],
-  "name": "Services - Desktop",
+  "name": "Services - Web Design -Desktop",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

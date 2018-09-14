@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "D79439C1-C913-4280-BB8F-2A26D95F6518",
+  "do_objectID": "BE5F898D-606C-4870-8EB3-6F84DFEE5E34",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5898,
-    "width": 1920,
-    "x": 4364,
-    "y": -25
+    "height": 3069,
+    "width": 1024,
+    "x": 10036,
+    "y": 19
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,35 +44,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "group",
-      "id": "BCC392CF-F06E-49AC-B0E8-ED8E02E4BFB8"
-    },
-    {
-      "class": "group",
-      "id": "3F1ABF01-9412-497A-BFF2-7B67F8C4B588"
-    },
-    {
-      "class": "group",
-      "id": "5BB96B1A-8AFC-4A87-A79F-34EA4E95CA41"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B9740D8B-62EC-4E81-A43A-4022DA7EF217"
-    },
-    {
-      "class": "group",
-      "id": "CE895ADB-9D1C-4DB7-BFC9-95B6B4A4FD1C"
-    }
   ],
-  "name": "Services - Desktop",
+  "name": "Services - IPad Pro",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
-    "height": 1080,
-    "name": "Apple TV",
-    "offersLandscapeVariant": 0,
-    "width": 1920
+    "height": 1366,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1024
   },
   "resizesContent": false,
   "resizingConstraint": 63,
