@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "04DF56D6-DC48-421E-815B-90189959CBE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A5FC313-A9E6-461B-A3E6-FEF2800F6875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FB86B20-3100-49DA-9B3E-A63D9AB56D60",
+    "height": 537,
+    "width": 1024,
+    "x": 0,
+    "y": 293
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "45A8F6B1-9E2A-467E-BAFE-1EB1CC16CF0D"
+    },
+    {
+      "class": "group",
+      "id": "BEADD865-971D-4782-B72C-1298A51054B0"
+    }
+  ],
+  "name": "Landing Page",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A03B4799-C76F-4513-B907-AC36A28AFE96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

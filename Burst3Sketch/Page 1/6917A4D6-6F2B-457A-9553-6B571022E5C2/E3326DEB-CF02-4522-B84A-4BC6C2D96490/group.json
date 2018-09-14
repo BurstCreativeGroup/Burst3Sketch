@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E3326DEB-CF02-4522-B84A-4BC6C2D96490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AC2F05B-D8BD-45BE-ADCD-52B6BB2B7629",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0B711F9-B598-487C-95F6-290CF3DB9276",
+    "height": 647,
+    "width": 376,
+    "x": 0,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "83B9E3A5-3179-4F0C-9166-C537E5BDD12F"
+    },
+    {
+      "class": "group",
+      "id": "9CB22CB3-8914-432C-BBE0-065948D41BEE"
+    }
+  ],
+  "name": "Landing Page Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC277B2C-ADEE-4E57-A08E-27AAD175C687",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Ipad Pro"
+    "string": "Iphone 8"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "E037EDC7-991C-4920-BF54-6B884E5C2B3E",
     "height": 24,
-    "width": 81,
-    "x": 2752,
-    "y": -256
+    "width": 83,
+    "x": 3268,
+    "y": -275
   },
-  "glyphBounds": "{{1, 4}, {79, 20}}",
+  "glyphBounds": "{{1, 4}, {81, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ipad Pro Copy",
+  "name": "Iphone 8",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

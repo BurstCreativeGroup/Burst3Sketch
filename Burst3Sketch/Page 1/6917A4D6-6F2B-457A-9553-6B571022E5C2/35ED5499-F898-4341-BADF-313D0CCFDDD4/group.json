@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "35ED5499-F898-4341-BADF-313D0CCFDDD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3117859C-0E49-448E-A5F4-BC633A557150",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3185850E-0713-46C6-9537-5474166B3BF5",
+    "height": 687,
+    "width": 533,
+    "x": 0,
+    "y": 3404
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42EEC969-9EC0-4CA3-B3A1-F86D46FDEBCD"
+    },
+    {
+      "class": "group",
+      "id": "CB3B315B-98F2-4A1D-B7D5-A141104342AD"
+    },
+    {
+      "class": "text",
+      "id": "BCF1262D-07B6-4C47-A21F-93A8A3914F15"
+    },
+    {
+      "class": "text",
+      "id": "66F541A7-6771-461A-B82A-34FF3DEA0999"
+    },
+    {
+      "class": "text",
+      "id": "1A01B742-FB4A-44D5-BFAC-DCE974243F1A"
+    },
+    {
+      "class": "text",
+      "id": "F80A58C7-0C09-43D2-B3C7-EBEE10FB6AE0"
+    },
+    {
+      "class": "text",
+      "id": "8D103D6F-A395-4749-BEB1-5D94D0D8A305"
+    },
+    {
+      "class": "text",
+      "id": "F9748FDD-1203-45FE-9D87-BEE19AB17869"
+    },
+    {
+      "class": "group",
+      "id": "57F07B38-E4C7-4CD7-AD63-7D4F62B302D4"
+    },
+    {
+      "class": "group",
+      "id": "90A2918B-31CB-4796-9900-7101A6E9A5F5"
+    },
+    {
+      "class": "group",
+      "id": "C1638FE0-BACD-4DA8-992A-C36E73D2158B"
+    },
+    {
+      "class": "group",
+      "id": "421F34D0-7869-4C01-9255-A98516289512"
+    },
+    {
+      "class": "text",
+      "id": "B4FCFCBF-8F51-46C6-BA56-5958DAEC9F29"
+    },
+    {
+      "class": "text",
+      "id": "F89A1E08-080D-4DB6-A601-914E46AF4A10"
+    },
+    {
+      "class": "text",
+      "id": "3D7D2362-7ECC-4195-854E-CC67EA910587"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F188509-3F5C-4E95-8460-F7651CFB659C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

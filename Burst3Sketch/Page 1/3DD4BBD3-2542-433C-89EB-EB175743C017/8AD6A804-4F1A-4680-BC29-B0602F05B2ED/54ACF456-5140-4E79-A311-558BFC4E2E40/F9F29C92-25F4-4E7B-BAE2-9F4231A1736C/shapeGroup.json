@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9F29C92-25F4-4E7B-BAE2-9F4231A1736C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CBAE83B-C32D-4034-B8D3-C0C1829705B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "96CEEE48-CF45-4A17-BC4A-D026FE95D9DD",
+    "height": 10.45454545454545,
+    "width": 10.90909090909088,
+    "x": 6.545454545454545,
+    "y": 6.272727272727272
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BE1E03B5-B6E4-40AA-AFE6-7B2B2B2E7B91"
+    },
+    {
+      "class": "shapePath",
+      "id": "763A134F-026B-4DD2-B212-1BC19428E2EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EC0E0BE-50E7-4603-8AEB-CC3EF58BA6EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "74D590FB-B499-4EB3-9302-C8EFCD86D313"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D2D3B367-62BE-40FF-8C95-D9242F5794B6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.33333741764182,
+      "type": 0
+    },
+    "do_objectID": "31AC9080-1C9A-4562-BC92-BB890E0CEDC4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "FD98670D-C23D-4173-BA13-27A79A293CEB",
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

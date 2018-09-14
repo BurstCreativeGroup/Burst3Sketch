@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2778,
+    "height": 2801,
     "width": 2218,
-    "x": 89,
-    "y": 2089
+    "x": 94,
+    "y": 2061
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -160,5 +160,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

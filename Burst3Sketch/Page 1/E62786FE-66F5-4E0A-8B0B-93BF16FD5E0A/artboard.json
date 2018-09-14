@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "BE5F898D-606C-4870-8EB3-6F84DFEE5E34",
+  "do_objectID": "E62786FE-66F5-4E0A-8B0B-93BF16FD5E0A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3069,
-    "width": 1024,
-    "x": 10036,
+    "height": 3683,
+    "width": 375,
+    "x": 12843,
     "y": 19
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,15 +44,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "AA588755-1801-46BF-A878-1A4B9E3B2A57"
+    }
   ],
-  "name": "Services - IPad Pro",
+  "name": "Services - Web Design  - Iphone8",
   "nameIsFixed": true,
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1366,
-    "name": "iPad Pro",
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
-    "width": 1024
+    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -19,7 +19,7 @@
     "height": 715,
     "width": 1920,
     "x": 0,
-    "y": 627
+    "y": 497
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -51,5 +51,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

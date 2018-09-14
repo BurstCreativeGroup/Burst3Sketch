@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CB3B315B-98F2-4A1D-B7D5-A141104342AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BE3DA04-2A39-45BA-9FAA-9C0D30318462",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6A3DA55-110E-4F6C-8130-A9DBE7B5B23B",
+    "height": 49,
+    "width": 50,
+    "x": 28,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0DF3BB1A-DEA2-4460-8227-6155F984C5D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B0A7603-8C9A-4530-9899-0A817C8EB598"
+    }
+  ],
+  "name": "Burst Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52FFF484-46F4-46EF-A544-45D013F15D5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5898,
+    "height": 6494,
     "width": 1920,
     "x": 4364,
     "y": -25
@@ -63,6 +63,10 @@
     {
       "class": "group",
       "id": "CE895ADB-9D1C-4DB7-BFC9-95B6B4A4FD1C"
+    },
+    {
+      "class": "group",
+      "id": "442DEEFA-3AD0-44DC-991B-0FB3293E36BD"
     }
   ],
   "name": "Services - Desktop",

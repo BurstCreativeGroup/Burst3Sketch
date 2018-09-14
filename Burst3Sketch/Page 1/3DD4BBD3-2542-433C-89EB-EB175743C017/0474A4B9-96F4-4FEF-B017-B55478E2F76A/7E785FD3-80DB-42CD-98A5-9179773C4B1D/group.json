@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7E785FD3-80DB-42CD-98A5-9179773C4B1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D653BC0C-B259-4D12-B543-887C285666DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A214E01-0888-441A-AC9C-3ACCA4C4B16E",
+    "height": 84,
+    "width": 383,
+    "x": 297,
+    "y": 1554
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47ED7D1C-C000-4A93-9410-C6DD597D9EFE"
+    },
+    {
+      "class": "text",
+      "id": "3AEB006B-315A-446B-88AA-AC778B44FE0E"
+    }
+  ],
+  "name": "BUTTON - Learn more about us Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBA9036E-9F83-40A6-9356-90602CD6F94B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

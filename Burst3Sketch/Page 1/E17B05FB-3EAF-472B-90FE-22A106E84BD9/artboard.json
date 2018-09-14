@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4232,
+    "height": 4131,
     "width": 1920,
-    "x": 6612,
-    "y": -25
+    "x": 9019,
+    "y": 19
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -55,6 +55,38 @@
     {
       "class": "text",
       "id": "79C977DB-9965-4D85-9B64-366C8B002252"
+    },
+    {
+      "class": "text",
+      "id": "81174EA1-430B-455C-A201-084E35969060"
+    },
+    {
+      "class": "group",
+      "id": "3ACA4A17-CD77-4103-B8B7-619155C9528A"
+    },
+    {
+      "class": "group",
+      "id": "770D5599-8B85-4649-B5BB-6CB10174B100"
+    },
+    {
+      "class": "group",
+      "id": "8B9BAAEC-8BCF-461F-9D10-74A2E8AC2612"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1857E5C6-9C71-418F-8FA5-3198CF63C7D2"
+    },
+    {
+      "class": "group",
+      "id": "01E2B063-E433-402D-8792-1486DAE2CEDE"
+    },
+    {
+      "class": "group",
+      "id": "49B273E4-282A-419B-B7F8-0DB73D7A5762"
+    },
+    {
+      "class": "group",
+      "id": "B859E69A-4430-443A-9EC6-9465B29C5DD8"
     }
   ],
   "name": "Services - Web Design -Desktop",

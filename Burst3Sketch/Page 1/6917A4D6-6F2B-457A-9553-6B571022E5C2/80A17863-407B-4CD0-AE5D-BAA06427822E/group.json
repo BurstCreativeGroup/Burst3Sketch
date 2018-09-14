@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "80A17863-407B-4CD0-AE5D-BAA06427822E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 472,
+    "width": 1333,
+    "x": 23,
+    "y": 1814
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1A04C45-7237-4662-BD92-80B454C2F7D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4BA7622-7AC6-4165-A46C-63579B1186D7"
+    },
+    {
+      "class": "text",
+      "id": "DD1C6896-1E24-4621-B325-00A986A41AE7"
+    },
+    {
+      "class": "text",
+      "id": "0EFDB404-B373-4C56-9EAD-B4FE3CF1D315"
+    },
+    {
+      "class": "text",
+      "id": "4B2D0333-C12E-4190-A1BA-3BDD3E24E418"
+    },
+    {
+      "class": "text",
+      "id": "492BEA3B-1B22-4839-B178-22639C3E8667"
+    },
+    {
+      "class": "text",
+      "id": "0BD7D997-4FE6-4130-8487-9728C406543F"
+    },
+    {
+      "class": "group",
+      "id": "5FF8F0B2-E656-4E39-996C-1E817F73C2CB"
+    },
+    {
+      "class": "group",
+      "id": "F77EC2BE-C00B-4A25-995C-766D7070C56C"
+    }
+  ],
+  "name": "Digital Strategy - Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
