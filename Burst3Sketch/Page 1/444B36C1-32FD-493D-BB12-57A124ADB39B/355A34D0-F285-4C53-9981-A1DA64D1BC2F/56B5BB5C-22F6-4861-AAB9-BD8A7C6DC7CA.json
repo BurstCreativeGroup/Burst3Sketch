@@ -25,18 +25,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Wordpress Development"
+    "string": "Ecommerce"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "B87B38F0-D577-448F-99B8-2017E83EB87E",
+  "do_objectID": "56B5BB5C-22F6-4861-AAB9-BD8A7C6DC7CA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "580B7D32-1ABD-436C-9DCB-72EC59B51C03",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,12 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E1F5F12A-6597-4909-AA3F-8095D8D5A505",
     "height": 72,
-    "width": 664,
-    "x": 119,
-    "y": 1727
+    "width": 323,
+    "x": 170,
+    "y": 1000
   },
-  "glyphBounds": "{{0, 14}, {663, 57}}",
+  "glyphBounds": "{{4, 14}, {316, 45}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Wordpress Developmen",
+  "name": "Ecommerce",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -68,11 +70,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D1A7925F-4F49-4960-BC16-8B640A73F98D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "0C19A258-BB5F-47FA-821D-F84C5FAE2B4A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

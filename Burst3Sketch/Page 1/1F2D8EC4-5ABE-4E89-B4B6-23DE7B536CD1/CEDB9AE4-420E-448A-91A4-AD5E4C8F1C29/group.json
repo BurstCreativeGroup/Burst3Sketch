@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CEDB9AE4-420E-448A-91A4-AD5E4C8F1C29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE5B9623-28BE-4908-95EC-C4D163993BBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "614DAC52-A82C-4745-9363-586B256C9CE4",
+    "height": 46,
+    "width": 264,
+    "x": 56,
+    "y": 2765
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "62E419F2-B54F-4DE3-993D-70989B6D461A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EDD7074-89B2-4357-B451-122274222944"
+    }
+  ],
+  "name": "Button - Check out more services",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17C589C8-30B9-4B63-B2CE-730774405009",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

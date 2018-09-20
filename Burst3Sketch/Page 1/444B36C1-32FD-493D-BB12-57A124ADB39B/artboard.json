@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3385,
+    "height": 4422,
     "width": 1920,
     "x": 13553,
     "y": 19
@@ -42,16 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "E4FF0BEC-7BD4-448D-B687-A281EC288D20"
-    },
-    {
-      "class": "text",
-      "id": "B87B38F0-D577-448F-99B8-2017E83EB87E"
-    },
     {
       "class": "group",
       "id": "12CD9EC5-0D3D-467D-A8E8-CD45B6E84EAC"
@@ -63,6 +55,22 @@
     {
       "class": "group",
       "id": "14866F77-9C72-47A0-A15E-DEEC96D4D2F9"
+    },
+    {
+      "class": "group",
+      "id": "355A34D0-F285-4C53-9981-A1DA64D1BC2F"
+    },
+    {
+      "class": "group",
+      "id": "32765A14-D524-484F-A928-9DF2B46D0C93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C82643D-F56F-4901-8F3A-E7E4C2A006D4"
+    },
+    {
+      "class": "group",
+      "id": "30330E04-A056-4D02-9D00-D873B45A5768"
     }
   ],
   "name": "Services - Desktop - Web Development",

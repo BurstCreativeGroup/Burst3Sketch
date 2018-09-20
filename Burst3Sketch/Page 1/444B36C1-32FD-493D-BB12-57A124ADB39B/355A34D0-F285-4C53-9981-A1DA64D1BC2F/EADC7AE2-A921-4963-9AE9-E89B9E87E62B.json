@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "E4FF0BEC-7BD4-448D-B687-A281EC288D20",
+  "do_objectID": "EADC7AE2-A921-4963-9AE9-E89B9E87E62B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 256,
-    "width": 256,
-    "x": 306,
-    "y": 1437
+    "height": 235,
+    "width": 235,
+    "x": 186,
+    "y": 1506
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/d2f7918151b3d63c0f98d27137191c13cd17ff9f.png",
+    "_ref": "images/4b15e82abdb2bee0654466c4da3710dd7f44856b.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "wordpress-logo",
-  "nameIsFixed": false,
+  "name": "website icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -69,15 +69,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 256,
+            "constant": 235,
             "enabled": 1,
-            "modelID": "constraint_833748a7-efb0-4b42-91e1-baf21a3c343f",
+            "modelID": "constraint_03e44d54-214a-4d65-8f6f-1a323ca5cdca",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 256
+            "multiplier": 235
           },
           "automatic": 1,
-          "modelID": "viewConstraints_dc269ee6-75a9-4da1-b25a-7bb8d8232e83",
+          "modelID": "viewConstraints_319bc3c9-dadb-4114-a735-18acb29a5064",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
