@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D2A51E7D-B1CD-4A26-B635-35B15CCC708C",
+  "do_objectID": "2196FAB8-1581-46B5-9008-0EEA894D56D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D0B56F67-969A-4D04-8402-FBFA9E12E23F",
+    "do_objectID": "7CEB0B37-4B3E-42A1-B4D5-DA04A7EA84C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1E9A55CC-95B6-4942-9372-A2120F62C4EC",
-    "height": 61,
-    "width": 158,
+    "do_objectID": "CC77B1FC-01DC-4049-B8C5-A341B1D6E54C",
+    "height": 70,
+    "width": 195,
     "x": 0,
-    "y": 44
+    "y": 51
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "58146D69-9AF3-4030-9C8D-ACC956EF560B"
+      "id": "5CF7D888-8CA7-4DBB-8BEB-6CBD452D5BEF"
     }
   ],
   "name": "Shape",
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.9137254901960784,
-          "red": 0.9137254901960784
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -60,7 +60,7 @@
         "thickness": 9
       }
     ],
-    "do_objectID": "368F17B4-1B92-4892-B6D3-E391AB116828",
+    "do_objectID": "FF1A411F-6578-41FB-83F3-16FC4C4300F4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

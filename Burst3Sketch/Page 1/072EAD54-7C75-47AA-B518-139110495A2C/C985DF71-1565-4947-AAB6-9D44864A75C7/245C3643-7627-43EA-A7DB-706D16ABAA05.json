@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "ANIMATIONS & RICH VISUALS"
+    "string": "Animations & Rich Visuals"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "DBC98A17-C74F-4A7F-9E38-284683A90F9F",
     "height": 18,
-    "width": 210,
-    "x": 136,
-    "y": 520
+    "width": 174,
+    "x": 137,
+    "y": 393
   },
-  "glyphBounds": "{{0, 3}, {209, 13}}",
+  "glyphBounds": "{{0, 4}, {174, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ANIMATIONS & RICH VI",
+  "name": "Animations & Rich Vi",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

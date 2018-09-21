@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "PERFORMANCE AUDITS"
+    "string": "Performance Audits"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "58648756-2768-43D0-A8BF-B1C4BB7F9201",
     "height": 18,
-    "width": 170,
-    "x": 156,
-    "y": 1951
+    "width": 134,
+    "x": 165,
+    "y": 1757
   },
-  "glyphBounds": "{{1, 3}, {168, 13}}",
+  "glyphBounds": "{{1, 3}, {132, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PERFORMANCE AUDITS",
+  "name": "Performance Audits",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -1,10 +1,9 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "996A8CE0-0F9A-4ADD-BC4B-D0E68875904E",
+  "do_objectID": "D3C54772-25D5-4BE5-9407-6F9DDD5377E0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5BCFF39D-91DD-4145-8177-24F1A94D0DE4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "45F8945A-C8E6-47BA-82ED-A69251A6D881",
-    "height": 115,
-    "width": 158,
-    "x": 452,
-    "y": 444
+    "height": 72,
+    "width": 134,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,35 +29,28 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "82456717-B5A5-4DD3-B150-4AB74A059E6B"
+      "id": "546FE77C-7132-4D67-BCBE-DA275319140C"
     },
     {
       "class": "shapeGroup",
-      "id": "D2A51E7D-B1CD-4A26-B635-35B15CCC708C"
+      "id": "AFA21BFE-EAFA-47E7-A262-D66CBE59B0E5"
     },
     {
       "class": "shapeGroup",
-      "id": "9646FD40-7938-4238-A8A1-B0DC2B8C737C"
+      "id": "3048FDCE-01D7-45E8-A888-C99D89B1AAA4"
     }
   ],
-  "name": "basic_picture copy 7",
-  "nameIsFixed": false,
-  "resizingConstraint": 45,
+  "name": "Wireframe Line 06",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B13546E2-17CC-493F-ABD0-844F143A59B7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

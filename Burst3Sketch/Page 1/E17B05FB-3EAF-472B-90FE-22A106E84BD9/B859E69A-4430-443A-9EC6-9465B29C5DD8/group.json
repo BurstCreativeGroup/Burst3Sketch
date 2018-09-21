@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,6 +38,10 @@
     {
       "class": "shapeGroup",
       "id": "5414031E-3B05-4B57-8C5E-95ACF1746374"
+    },
+    {
+      "class": "text",
+      "id": "BCB83654-78E2-4980-A46D-115CE590C987"
     }
   ],
   "name": "Arrows/Lines",

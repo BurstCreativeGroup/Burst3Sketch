@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "PACKAGING"
+    "string": "Pacakaging"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "232F0B1C-FB36-4E38-BCDE-7B717BA750ED",
     "height": 18,
-    "width": 88,
-    "x": 175,
-    "y": 1567
+    "width": 81,
+    "x": 187,
+    "y": 1310
   },
-  "glyphBounds": "{{1, 3}, {85, 13}}",
+  "glyphBounds": "{{1, 4}, {78, 15}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PACKAGING",
+  "name": "Pacakaging",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "LANDING PAGES"
+    "string": "Landing Pages"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "4824929B-1060-4030-9475-5E9E4B7C1F7A",
     "height": 20,
-    "width": 135,
-    "x": 441,
+    "width": 116,
+    "x": 450.5,
     "y": 264
   },
-  "glyphBounds": "{{1, 3}, {134, 14}}",
+  "glyphBounds": "{{1, 3}, {114, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "LANDING PAGES",
+  "name": "Landing Pages",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

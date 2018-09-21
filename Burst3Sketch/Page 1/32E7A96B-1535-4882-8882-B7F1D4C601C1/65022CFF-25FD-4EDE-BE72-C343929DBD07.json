@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Light",
-              "size": 60
+              "name": "Helvetica-Bold",
+              "size": 34
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8A52CF61-A1A6-487F-A8AF-64EF93BBEA23",
-    "height": 144,
-    "width": 304,
-    "x": 360,
-    "y": 2674
+    "height": 82,
+    "width": 187,
+    "x": 424,
+    "y": 2690
   },
-  "glyphBounds": "{{0, 13}, {299, 58}}",
+  "glyphBounds": "{{0, 7}, {185, 34}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -88,8 +88,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Light",
-            "size": 60
+            "name": "Helvetica-Bold",
+            "size": 34
           }
         },
         "paragraphStyle": {

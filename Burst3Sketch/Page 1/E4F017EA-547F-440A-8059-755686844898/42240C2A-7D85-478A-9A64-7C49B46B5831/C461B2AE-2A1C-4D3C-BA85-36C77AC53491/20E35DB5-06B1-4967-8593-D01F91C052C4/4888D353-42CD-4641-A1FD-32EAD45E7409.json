@@ -1,11 +1,11 @@
 {
   "_class": "oval",
   "booleanOperation": -1,
-  "do_objectID": "DBC925BC-69A7-436E-A6B1-F3A82BEDD425",
+  "do_objectID": "4888D353-42CD-4641-A1FD-32EAD45E7409",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5D6602F4-C24A-43AC-AC43-B80030C314A2",
+    "do_objectID": "E619971B-D81B-4285-8887-A87A39E4513E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +16,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BACC87DB-22EB-48E9-AA94-EF27F246F0CF",
-    "height": 27.99999999999991,
-    "width": 26.00000000000003,
+    "do_objectID": "C5B93B7C-8F7D-45B7-8462-5ECF99C89AC5",
+    "height": 31.99999999999995,
+    "width": 32.00000000000006,
     "x": 0,
     "y": 0
   },

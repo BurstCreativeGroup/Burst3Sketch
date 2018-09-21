@@ -20,6 +20,11 @@
               "size": 15
             }
           },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 123,
@@ -59,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si Copy",
+  "name": "Lorem ipsum dolor si",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,6 +93,11 @@
             "name": "Helvetica-Bold",
             "size": 15
           }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
