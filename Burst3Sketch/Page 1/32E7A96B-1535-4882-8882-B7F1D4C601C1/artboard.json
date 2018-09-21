@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "32E7A96B-1535-4882-8882-B7F1D4C601C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5055,
+    "width": 1024,
+    "x": 24428,
+    "y": 39
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C06897C-6374-4EA5-9878-F759EB53F282"
+    },
+    {
+      "class": "text",
+      "id": "B64120D5-2C9D-4A05-BB39-D5DF8D4C500D"
+    },
+    {
+      "class": "group",
+      "id": "E2E242AC-22A5-4EED-B937-927B346DF2E6"
+    },
+    {
+      "class": "bitmap",
+      "id": "2DC1E8BB-C4B2-4C62-8057-013F90CEAD24"
+    },
+    {
+      "class": "bitmap",
+      "id": "E78DB7F2-3485-4AA1-BCA1-97B62DA6B8C6"
+    },
+    {
+      "class": "bitmap",
+      "id": "4BFE9AFD-6BF1-454D-AA04-893FA282CD6B"
+    },
+    {
+      "class": "text",
+      "id": "58B21BCC-9F24-49E0-8F74-02899D320AE1"
+    },
+    {
+      "class": "text",
+      "id": "65022CFF-25FD-4EDE-BE72-C343929DBD07"
+    },
+    {
+      "class": "text",
+      "id": "03EA4B04-95C1-40F6-BF15-EA497EEA6BA5"
+    },
+    {
+      "class": "text",
+      "id": "B9D011EA-EC1F-4ABB-8904-7F74E68CD89E"
+    },
+    {
+      "class": "text",
+      "id": "B5EA9F1B-4E2A-439A-9DEA-D9FB07123293"
+    },
+    {
+      "class": "text",
+      "id": "9565B477-10D6-4FF3-BC63-C1FF813D5058"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54E8CEB2-C0D9-4887-81A4-D0389488410D"
+    },
+    {
+      "class": "group",
+      "id": "CBCEE90F-09C6-4D1C-AB97-5CC138B0072E"
+    },
+    {
+      "class": "group",
+      "id": "689BFDDD-3B76-4475-B717-E65C068F910D"
+    }
+  ],
+  "name": "Services-Digital Strategy-Ipad Pro",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1366,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

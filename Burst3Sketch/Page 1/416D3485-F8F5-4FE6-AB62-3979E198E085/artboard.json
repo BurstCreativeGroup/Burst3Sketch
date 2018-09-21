@@ -81,8 +81,28 @@
       "id": "D357B08B-202E-40BA-8473-4028BA7EDA82"
     },
     {
+      "class": "text",
+      "id": "3E08E1EE-53F9-4004-BA58-CAEE1032A1DD"
+    },
+    {
       "class": "bitmap",
       "id": "8DFCA7B0-B6D4-4B4E-A222-17800A5C332C"
+    },
+    {
+      "class": "bitmap",
+      "id": "05F07ECE-8A00-4ECE-B498-8B83B5F8E5EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "387942BB-A813-41AE-9B8C-88ACA7162969"
+    },
+    {
+      "class": "group",
+      "id": "1873E087-28B7-4CA3-B870-A90A847774AC"
+    },
+    {
+      "class": "group",
+      "id": "C65701E0-7F8E-45FE-B931-341417E12752"
     }
   ],
   "name": "Services-Digital Strategy - Desktop",
