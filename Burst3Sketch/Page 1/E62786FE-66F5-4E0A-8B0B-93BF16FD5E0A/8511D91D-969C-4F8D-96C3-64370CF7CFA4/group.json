@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 436,
+    "height": 808,
     "width": 313,
     "x": 40,
     "y": 982
@@ -27,6 +27,14 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0A504605-FB6D-4696-BB75-5C5CC916D3FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B42461D1-E41E-43CC-892B-171DDAA6335B"
+    },
     {
       "class": "text",
       "id": "34BC2C37-07DE-40A2-A266-9D9803C01C9D"

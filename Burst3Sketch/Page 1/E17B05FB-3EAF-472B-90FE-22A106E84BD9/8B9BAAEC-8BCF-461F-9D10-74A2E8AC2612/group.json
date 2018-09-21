@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 293,
-    "width": 1725,
-    "x": 93,
-    "y": 2681
+    "height": 531,
+    "width": 1700,
+    "x": 119,
+    "y": 2878
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,19 +25,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "65DAA149-7C56-4296-8F13-F2F49E61E6FD"
     },
     {
-      "class": "text",
-      "id": "E78C1F77-3A8A-4E71-9272-E9CD05697CE2"
-    },
-    {
       "class": "bitmap",
       "id": "B7ED04AF-0000-49D8-91F3-6E5585F0A7FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A10DF7CF-299D-493D-81AC-F764715F16FA"
     }
   ],
   "name": "Animations & Rich Visuals -Section",

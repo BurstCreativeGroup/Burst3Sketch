@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1823,
-    "width": 1719,
-    "x": 103,
-    "y": 1464
+    "height": 2019,
+    "width": 1672,
+    "x": 124,
+    "y": 1615
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -30,6 +30,18 @@
     {
       "class": "bitmap",
       "id": "E4FF0BEC-7BD4-448D-B687-A281EC288D20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BE1B3E9-BD18-471A-B602-D1A8F9F3C59B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECBCB843-24B0-415D-80AD-F4EEE9EBF66C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00AB3A1E-5D2B-45AF-8873-BE178EB8B993"
     },
     {
       "class": "text",

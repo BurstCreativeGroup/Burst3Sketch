@@ -57,6 +57,10 @@
     {
       "class": "shapeGroup",
       "id": "E8246925-7701-4BB1-BCF0-93C6D8C087D1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "83BCF04D-4ACD-4619-830F-4BB31B428D12"
     }
   ],
   "name": "Symbols",

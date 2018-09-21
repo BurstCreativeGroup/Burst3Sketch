@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 399,
-    "width": 292,
-    "x": 39,
-    "y": 2057
+    "height": 388,
+    "width": 442,
+    "x": -33,
+    "y": 2081
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,11 +25,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "81F14C00-6E05-4750-B232-3E943064188D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31542A39-31DA-420B-B8A6-6ED0F98BA462"
     },
     {
       "class": "text",

@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4131,
+    "height": 4512,
     "width": 1920,
     "x": 9019,
     "y": 19
@@ -42,15 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "173847BA-10AB-46E0-9BCF-AFF4778E8B38"
-    },
-    {
-      "class": "group",
-      "id": "9BBE11D9-A20F-45AB-9D99-8744C54EB221"
     },
     {
       "class": "text",
@@ -63,6 +59,10 @@
     {
       "class": "group",
       "id": "3ACA4A17-CD77-4103-B8B7-619155C9528A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5945C40E-9ED5-412D-9600-A5FA188B5C38"
     },
     {
       "class": "group",
@@ -81,6 +81,10 @@
       "id": "01E2B063-E433-402D-8792-1486DAE2CEDE"
     },
     {
+      "class": "shapeGroup",
+      "id": "1ABE83F7-B7DD-4612-8588-2E7D72643A91"
+    },
+    {
       "class": "group",
       "id": "49B273E4-282A-419B-B7F8-0DB73D7A5762"
     },
@@ -89,12 +93,20 @@
       "id": "B859E69A-4430-443A-9EC6-9465B29C5DD8"
     },
     {
-      "class": "shapeGroup",
-      "id": "5945C40E-9ED5-412D-9600-A5FA188B5C38"
+      "class": "text",
+      "id": "F1623D00-DFAE-4B7A-A4A3-7D14D2594A94"
+    },
+    {
+      "class": "text",
+      "id": "6A2DB5CD-9D22-4E54-B814-48F189A5E547"
     },
     {
       "class": "text",
       "id": "123280B3-DD61-4B3E-A983-83A5C052055B"
+    },
+    {
+      "class": "group",
+      "id": "49CDEAA1-6D45-40B7-8126-8DE493B3E647"
     }
   ],
   "name": "Services - Web Design -Desktop",
@@ -113,6 +125,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

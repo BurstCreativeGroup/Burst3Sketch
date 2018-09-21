@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 293,
-    "width": 1708,
-    "x": 110,
-    "y": 2058
+    "height": 240,
+    "width": 660,
+    "x": 136,
+    "y": 2363
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "BCB83654-78E2-4980-A46D-115CE590C987"
-    },
-    {
-      "class": "text",
-      "id": "1514CC5B-EB75-4BD8-A18A-A6AE2F752AAF"
     },
     {
       "class": "group",

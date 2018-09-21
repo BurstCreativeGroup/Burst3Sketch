@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 200,
-    "x": 236,
-    "y": 1430
+    "x": 262,
+    "y": 1710
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",

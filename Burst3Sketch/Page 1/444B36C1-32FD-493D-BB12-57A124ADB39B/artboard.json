@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4422,
+    "height": 4727,
     "width": 1920,
     "x": 13553,
     "y": 19
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -51,10 +51,6 @@
     {
       "class": "text",
       "id": "5D75718E-6B3E-4269-844F-755E012602DB"
-    },
-    {
-      "class": "group",
-      "id": "14866F77-9C72-47A0-A15E-DEEC96D4D2F9"
     },
     {
       "class": "group",
@@ -71,6 +67,10 @@
     {
       "class": "group",
       "id": "30330E04-A056-4D02-9D00-D873B45A5768"
+    },
+    {
+      "class": "group",
+      "id": "C7223164-81DB-4258-BA4E-E9E82D209DBF"
     }
   ],
   "name": "Services - Desktop - Web Development",

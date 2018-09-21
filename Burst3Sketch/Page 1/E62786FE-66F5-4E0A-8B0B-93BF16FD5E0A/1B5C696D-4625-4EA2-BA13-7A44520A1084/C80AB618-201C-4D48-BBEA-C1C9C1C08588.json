@@ -52,7 +52,7 @@
     "height": 18,
     "width": 92,
     "x": 32,
-    "y": 558
+    "y": 582
   },
   "glyphBounds": "{{0, 4}, {92, 12}}",
   "isFixedToViewport": false,
@@ -101,7 +101,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
