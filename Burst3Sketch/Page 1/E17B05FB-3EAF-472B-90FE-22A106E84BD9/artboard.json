@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -87,6 +87,14 @@
     {
       "class": "group",
       "id": "B859E69A-4430-443A-9EC6-9465B29C5DD8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5945C40E-9ED5-412D-9600-A5FA188B5C38"
+    },
+    {
+      "class": "text",
+      "id": "123280B3-DD61-4B3E-A983-83A5C052055B"
     }
   ],
   "name": "Services - Web Design -Desktop",

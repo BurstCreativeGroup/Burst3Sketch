@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 319,
-    "width": 1582,
+    "height": 200,
+    "width": 200,
     "x": 236,
     "y": 1430
   },
@@ -27,10 +27,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "BC3D6AC8-F7FD-4CB1-8DA7-6028D976A6AE"
-    },
     {
       "class": "bitmap",
       "id": "FA53B6FE-71E9-4C81-8E77-40D77E6253E0"

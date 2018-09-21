@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "49AC6912-ADF6-4139-B602-AD60F6C19616",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB7CDBD-CF27-4527-9C21-9840B8AB41A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "166EA3AF-5B24-4792-892A-2042607D3610",
+    "height": 850,
+    "width": 4559,
+    "x": 9289,
+    "y": -1406
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E6B4F05F-E06E-41EA-80A1-C5EEC96FC114"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A3F416C-0BAB-43FE-B2A7-92E76539A640"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAB65311-18F4-46CA-9053-28DF380C0EDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8D5CB14-57A3-48FD-987D-8C44F3128EA4"
+    }
+  ],
+  "name": "Popover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EC915B7-CFA1-41B5-8C5A-9E3D15FB62B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

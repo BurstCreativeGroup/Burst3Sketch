@@ -9,31 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6079225540161133,
-            "green": 0.6078033447265625,
-            "red": 0.6078922152519226
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
-              "size": 35
+              "size": 15
             }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 250,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh mauris cursus mattis molestie a iaculis. Aliquam etiam erat velit scelerisque in dictum non. In aliquam sem fringilla ut."
+    "string": "BLOG"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "BC3D6AC8-F7FD-4CB1-8DA7-6028D976A6AE",
+  "do_objectID": "B52342CB-AC50-4E9F-87F6-85339308F066",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7C0D391F-13D8-4634-BDA0-B57D78249C10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -44,12 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 293,
-    "width": 858,
-    "x": 724,
-    "y": 26
+    "do_objectID": "EA3AAD8D-5B58-4B58-B6E7-836F797C968B",
+    "height": 18,
+    "width": 44,
+    "x": 39,
+    "y": 348
   },
-  "glyphBounds": "{{0, 8}, {856, 244}}",
+  "glyphBounds": "{{1, 3}, {42, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -57,33 +62,38 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "BLOG",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1C8F1375-93B5-4258-89D7-4B2E67CFD5C8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "10978316-EC1F-43DA-8B6F-E269BFCE9AFB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6079225540161133,
-          "green": 0.6078033447265625,
-          "red": 0.6078922152519226
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
-            "size": 35
+            "size": 15
           }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -91,11 +101,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

@@ -1,0 +1,91 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "09C23FCA-050F-4CD0-A0F6-EFE4B42DADB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BC4A796-066C-4838-96C9-EF633646DF1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05D5A09A-345A-4037-BB3D-22EB16058099",
+    "height": 186,
+    "width": 186,
+    "x": 110,
+    "y": 2270
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a4bdf28843066d2c9171dbe10c3e93dd7b976eeb.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "infographic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "173E171F-6978-4974-98C6-0C79C3043FBA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 256,
+            "enabled": 1,
+            "modelID": "constraint_37bed27f-009d-4584-ba15-b946cb5cb15c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 256
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ab4562f4-0b39-44db-9641-97ef244c6442",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
