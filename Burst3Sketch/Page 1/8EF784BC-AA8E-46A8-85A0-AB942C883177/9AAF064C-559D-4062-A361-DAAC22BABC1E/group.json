@@ -1,9 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "355A34D0-F285-4C53-9981-A1DA64D1BC2F",
+  "do_objectID": "9AAF064C-559D-4062-A361-DAAC22BABC1E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8F8AE566-EBE9-46F1-9E18-9F1907E401CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1823,
-    "width": 1719,
-    "x": 103,
-    "y": 1464
+    "do_objectID": "DACA56C3-0037-4EB1-8E05-5C8DEC1859B6",
+    "height": 239,
+    "width": 1920,
+    "x": 0,
+    "y": -3
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,46 +27,42 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "E4FF0BEC-7BD4-448D-B687-A281EC288D20"
+      "class": "shapeGroup",
+      "id": "588B3061-1854-47E7-BC8B-EA706A118254"
     },
     {
       "class": "text",
-      "id": "B87B38F0-D577-448F-99B8-2017E83EB87E"
+      "id": "55F4D36F-15C5-4B0A-9D40-CFE7DFA52D9C"
     },
     {
       "class": "text",
-      "id": "56B5BB5C-22F6-4861-AAB9-BD8A7C6DC7CA"
+      "id": "F7848903-6F68-442C-94F1-CCD1137D45C5"
     },
     {
       "class": "text",
-      "id": "C3FC05FE-2910-41A3-81D5-815A5250DF08"
+      "id": "17579F41-2CFD-48A2-9524-D4BAAB1114A9"
     },
     {
       "class": "text",
-      "id": "00FD33EE-6827-4DD2-8107-F3DDB6F1AC29"
+      "id": "DD5A59F9-15DB-4519-916F-A6DAF257EEAB"
     },
     {
       "class": "text",
-      "id": "B8F3D91B-558D-4C95-B0D5-BA405DD15344"
+      "id": "AD126A60-6075-46C4-85EF-FFB8DC3E23AC"
     },
     {
       "class": "text",
-      "id": "33C81249-FA93-4FB5-ADA5-32D8C56EF96C"
+      "id": "2B4DF9B4-441A-4B81-B1BB-565D6E19672C"
     },
     {
-      "class": "bitmap",
-      "id": "AAE55523-551E-4B5C-92A6-1A901EBD9FE5"
-    },
-    {
-      "class": "bitmap",
-      "id": "EADC7AE2-A921-4963-9AE9-E89B9E87E62B"
+      "class": "group",
+      "id": "FA7B37DD-7EE3-4ECB-9A43-F6EC61188D5D"
     }
   ],
-  "name": "Main Section of Serviecs",
+  "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +70,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B869CA34-227C-4570-A40C-D9F0C50B4A94",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
