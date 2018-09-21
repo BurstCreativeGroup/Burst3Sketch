@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4422,
+    "height": 4917,
     "width": 1920,
     "x": 17944,
     "y": 39
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -57,34 +57,6 @@
       "id": "894F860A-8D47-4838-9DE5-300BA1CEF633"
     },
     {
-      "class": "text",
-      "id": "C7E3660C-B819-406C-812E-3612B088ABA4"
-    },
-    {
-      "class": "text",
-      "id": "20304480-D891-4C8A-8A52-4ECB4CE3D44F"
-    },
-    {
-      "class": "text",
-      "id": "C9B9A454-AC26-40C8-9580-B8195FEBAE22"
-    },
-    {
-      "class": "text",
-      "id": "1D302F51-9398-4D25-9F3C-1F30B41ECFEB"
-    },
-    {
-      "class": "text",
-      "id": "42FCA280-D71E-41F4-B3C1-25FD79D5FBFD"
-    },
-    {
-      "class": "text",
-      "id": "2BBDB42B-E372-4B73-A58C-B42BF7E5DACD"
-    },
-    {
-      "class": "bitmap",
-      "id": "0C4C1E29-9E4B-4538-80D3-39BFA72F62F9"
-    },
-    {
       "class": "shapeGroup",
       "id": "7C840E63-F974-414B-BFA9-DE93B45C6939"
     },
@@ -93,8 +65,12 @@
       "id": "6412ED02-7CC7-4D10-8EBB-233BA63A0CD4"
     },
     {
-      "class": "bitmap",
-      "id": "4DA161D3-05FF-495B-AB60-1B9C7EE8AF44"
+      "class": "group",
+      "id": "B95AA77C-FCE8-4D84-99C0-A0C2419A020F"
+    },
+    {
+      "class": "group",
+      "id": "7C71CEAE-06F3-4E18-B836-090CF06FE00E"
     }
   ],
   "name": "Services Graphic Design",

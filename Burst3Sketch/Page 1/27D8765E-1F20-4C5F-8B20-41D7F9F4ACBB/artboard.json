@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "27D8765E-1F20-4C5F-8B20-41D7F9F4ACBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3826,
+    "width": 375,
+    "x": 21544,
+    "y": 39
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "677AE557-3968-445A-A9B2-D54B59D84A7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D06354B-9F1B-4C7B-8634-80A4170128EA"
+    },
+    {
+      "class": "group",
+      "id": "9058FA17-AD53-4A25-9517-017A940F751E"
+    },
+    {
+      "class": "text",
+      "id": "5B45E5EB-5E7E-4F9A-8993-5B0EE998C62E"
+    },
+    {
+      "class": "bitmap",
+      "id": "583C4FA2-87ED-4B25-B55C-BB60C7B07DA5"
+    },
+    {
+      "class": "text",
+      "id": "46488EAF-19CE-4814-B59D-EEF6896C7787"
+    },
+    {
+      "class": "text",
+      "id": "894E0CF3-8052-476C-8620-12937F56F364"
+    },
+    {
+      "class": "text",
+      "id": "7B21FED7-11C7-41A5-A3C4-34EBD0D8F379"
+    },
+    {
+      "class": "text",
+      "id": "DB5DBE27-8277-4C03-92C0-CF54F0DE07E6"
+    },
+    {
+      "class": "text",
+      "id": "099087F4-1D49-4860-97C5-6D0C84FBBADD"
+    },
+    {
+      "class": "bitmap",
+      "id": "CD02476E-D7AF-4371-9BC3-FEC173E8A6B9"
+    },
+    {
+      "class": "text",
+      "id": "63455E86-F03F-4FB9-AB27-3C0AAB347DA5"
+    },
+    {
+      "class": "bitmap",
+      "id": "027B28E1-8B6E-4D54-B49D-70A0CBAF426E"
+    },
+    {
+      "class": "group",
+      "id": "741017AE-90B4-45E0-9D5F-418492D14FC2"
+    },
+    {
+      "class": "group",
+      "id": "BC832170-4329-4DBF-AB10-ABDB549D03E3"
+    }
+  ],
+  "name": "Services-Graphic Design-Iphone8",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

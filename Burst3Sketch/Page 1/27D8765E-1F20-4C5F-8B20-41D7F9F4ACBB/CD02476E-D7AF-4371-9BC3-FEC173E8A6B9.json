@@ -1,0 +1,107 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CD02476E-D7AF-4371-9BC3-FEC173E8A6B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEAC3345-ADD2-41C4-A655-C78F17E7E2D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "37ADF597-F2F4-46B0-8E43-0BF733B44173",
+    "height": 177,
+    "width": 177,
+    "x": 99,
+    "y": 1632
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/bc825c2de6081d8b593ece13aa4047d88aa6123b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "printer logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "F5E0B522-E6E6-402D-B498-C8F5FEC9E52B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 294,
+            "enabled": 1,
+            "modelID": "constraint_8c0992ba-e235-4752-a158-87e86ad84e05",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 294
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d5a46844-1bcd-48c9-a380-fe96258a410c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

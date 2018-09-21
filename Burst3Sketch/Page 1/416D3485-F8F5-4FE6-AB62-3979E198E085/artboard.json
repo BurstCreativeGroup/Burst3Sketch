@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "416D3485-F8F5-4FE6-AB62-3979E198E085",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4917,
+    "width": 1920,
+    "x": 22254,
+    "y": 39
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1C4757BF-1B51-4E17-8FDA-D3D19C25E894"
+    },
+    {
+      "class": "group",
+      "id": "53913AA5-1330-4100-BCBD-BD38F5E1BAA2"
+    },
+    {
+      "class": "text",
+      "id": "4CEDE75E-B6CF-4C67-9D15-8251799116A2"
+    },
+    {
+      "class": "text",
+      "id": "079FAF19-E22F-46E1-B4C0-E844865CEC05"
+    },
+    {
+      "class": "text",
+      "id": "71826F8E-0641-45EB-B97C-FA05ADA9C142"
+    },
+    {
+      "class": "text",
+      "id": "8655335D-99AE-4C7F-B80D-D3F1DE268AB4"
+    },
+    {
+      "class": "bitmap",
+      "id": "EEE69728-C5EC-4ECE-B6FB-B2A8A4F2038F"
+    },
+    {
+      "class": "text",
+      "id": "7CF558B8-53B4-4172-80A5-E8FF86894F49"
+    },
+    {
+      "class": "text",
+      "id": "D357B08B-202E-40BA-8473-4028BA7EDA82"
+    },
+    {
+      "class": "bitmap",
+      "id": "8DFCA7B0-B6D4-4B4E-A222-17800A5C332C"
+    }
+  ],
+  "name": "Services-Digital Strategy - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

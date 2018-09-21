@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4719,
+    "height": 5055,
     "width": 1024,
     "x": 15808,
     "y": 39
@@ -49,10 +49,6 @@
       "id": "1809A414-3241-49A9-B702-4507F4951F29"
     },
     {
-      "class": "group",
-      "id": "5D1C85AB-0CD6-4C97-B5D2-F86F67FA2B49"
-    },
-    {
       "class": "text",
       "id": "4B332292-48D8-40EB-811A-62B7A7D4B9C8"
     },
@@ -71,6 +67,10 @@
     {
       "class": "group",
       "id": "1473C995-98DB-4C8E-9087-57D785473AED"
+    },
+    {
+      "class": "group",
+      "id": "23AD8C8A-69B0-4955-AD48-E6EB35B5B1E8"
     }
   ],
   "name": "Services - Web Development - Ipad Pro",
