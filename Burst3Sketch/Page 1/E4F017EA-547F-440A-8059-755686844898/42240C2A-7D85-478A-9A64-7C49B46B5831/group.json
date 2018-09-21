@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 633,
+    "height": 798,
     "width": 1024,
     "x": 0,
-    "y": 5465
+    "y": 4895
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,12 +25,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "BD77FBCF-513A-45EC-A8DF-A551A2AD5771"
-    },
     {
       "class": "text",
       "id": "0E991670-8B50-4607-A6DC-4F145996B005"
@@ -38,6 +34,10 @@
     {
       "class": "shapeGroup",
       "id": "0DF3DA0A-70D2-4D4B-88A6-C2759F0BB7C2"
+    },
+    {
+      "class": "group",
+      "id": "996A8CE0-0F9A-4ADD-BC4B-D0E68875904E"
     }
   ],
   "name": "CTA",

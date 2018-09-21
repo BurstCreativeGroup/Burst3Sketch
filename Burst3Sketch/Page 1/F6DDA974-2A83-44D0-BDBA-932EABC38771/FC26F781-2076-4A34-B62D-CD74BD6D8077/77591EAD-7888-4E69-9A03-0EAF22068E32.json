@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "RESPONSIVE WEB DESIGN"
+    "string": "Responsive Web Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 628,
+    "width": 550,
     "x": 73,
-    "y": 1132
+    "y": 1123
   },
-  "glyphBounds": "{{4, 12}, {620, 38}}",
+  "glyphBounds": "{{4, 13}, {542, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "RESPONSIVE WEB DESIG",
+  "name": "Responsive Web Desig",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

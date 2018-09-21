@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "WEB APPLICATIONS"
+    "string": "Web Applications"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "E2B46048-6DA4-4777-8528-80C9B3F0A904",
     "height": 60,
-    "width": 471,
-    "x": 1175,
-    "y": 1132
+    "width": 394,
+    "x": 1109,
+    "y": 1093
   },
-  "glyphBounds": "{{0, 12}, {469, 38}}",
+  "glyphBounds": "{{0, 13}, {392, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "WEB APPLICATIONS",
+  "name": "Web Applications",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

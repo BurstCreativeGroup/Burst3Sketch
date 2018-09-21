@@ -25,12 +25,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "5C62008C-1482-4625-983B-EA148F2897D3"
-    },
     {
       "class": "text",
       "id": "16E6E0E7-CC6C-41B2-90AB-3B63D9C3CAEF"

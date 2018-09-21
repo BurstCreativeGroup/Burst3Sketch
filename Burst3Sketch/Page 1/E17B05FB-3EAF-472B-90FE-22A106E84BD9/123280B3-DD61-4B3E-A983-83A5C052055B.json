@@ -20,7 +20,7 @@
               "size": 35
             }
           },
-          "kerning": -1,
+          "kerning": -2.099999904632568,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 3,
@@ -30,8 +30,38 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 250,
+        "length": 249,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Light",
+              "size": 35
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42,
+            "paragraphSpacing": 3
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 249
       }
     ],
     "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh mauris cursus mattis molestie a iaculis. Aliquam etiam erat velit scelerisque in dictum non. In aliquam sem fringilla ut."
@@ -59,7 +89,7 @@
     "x": 1092,
     "y": 1686
   },
-  "glyphBounds": "{{0, 4}, {698, 244}}",
+  "glyphBounds": "{{0, 4}, {699, 244}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -97,7 +127,7 @@
             "size": 35
           }
         },
-        "kerning": -1,
+        "kerning": -2.099999904632568,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 3,

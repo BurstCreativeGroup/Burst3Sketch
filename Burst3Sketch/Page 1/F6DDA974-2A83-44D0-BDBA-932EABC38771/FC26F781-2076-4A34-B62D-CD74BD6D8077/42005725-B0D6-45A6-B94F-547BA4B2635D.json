@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "A/B TESTING"
+    "string": "A/B Testing"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "73CE577C-6B3B-460D-ABAF-AD8D5AEF69D5",
     "height": 60,
-    "width": 301,
+    "width": 253,
     "x": 73,
     "y": 2355
   },
-  "glyphBounds": "{{0, 12}, {296, 42}}",
+  "glyphBounds": "{{0, 12}, {249, 48}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "A/B TESTING",
+  "name": "A/B Testing",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

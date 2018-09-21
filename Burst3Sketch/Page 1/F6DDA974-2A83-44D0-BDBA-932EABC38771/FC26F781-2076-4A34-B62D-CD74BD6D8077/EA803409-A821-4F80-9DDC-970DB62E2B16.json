@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "WORDPRESS DEVELOPMENT"
+    "string": "Wordpress Development"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "D56660AE-38A2-4198-82A6-F078575DDBBE",
     "height": 60,
-    "width": 684,
-    "x": 1174,
-    "y": 1199
+    "width": 553,
+    "x": 1108,
+    "y": 1161
   },
-  "glyphBounds": "{{0, 12}, {683, 38}}",
+  "glyphBounds": "{{0, 13}, {552, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "WORDPRESS DEVELOPMEN",
+  "name": "Wordpress Developmen",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

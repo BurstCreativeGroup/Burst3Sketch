@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "BRANDING"
+    "string": "Branding"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "514694FA-C8D8-4893-9D89-1137F12FEE52",
     "height": 60,
-    "width": 262,
+    "width": 206,
     "x": 1177,
     "y": 2359
   },
-  "glyphBounds": "{{4, 12}, {253, 38}}",
+  "glyphBounds": "{{4, 13}, {198, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "BRANDING",
+  "name": "Branding",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -20,6 +20,11 @@
               "size": 35
             }
           },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 196,
@@ -49,9 +54,9 @@
     "height": 84,
     "width": 1537,
     "x": 0,
-    "y": 320
+    "y": 296
   },
-  "glyphBounds": "{{1, 8}, {1529, 76}}",
+  "glyphBounds": "{{1, 8}, {1535, 76}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -88,6 +93,11 @@
             "name": "Helvetica",
             "size": 35
           }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3
         },
         "textStyleVerticalAlignmentKey": 0
       },

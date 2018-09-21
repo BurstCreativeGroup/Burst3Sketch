@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "ECOMMERCE"
+    "string": "Ecommerce"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "D06A2A6E-5125-4298-830A-6312A08D4E8E",
     "height": 60,
-    "width": 320,
-    "x": 1172,
-    "y": 1057
+    "width": 269,
+    "x": 1106,
+    "y": 1031
   },
-  "glyphBounds": "{{4, 12}, {314, 38}}",
+  "glyphBounds": "{{4, 13}, {263, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ECOMMERCE",
+  "name": "Ecommerce",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

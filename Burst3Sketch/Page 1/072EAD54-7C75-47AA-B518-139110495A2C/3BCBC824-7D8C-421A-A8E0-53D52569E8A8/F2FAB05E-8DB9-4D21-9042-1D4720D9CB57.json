@@ -20,10 +20,42 @@
               "size": 15
             }
           },
+          "kerning": -1,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 196,
+        "length": 195,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 15
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 195
       }
     ],
     "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dapibus ultrices in iaculis nunc. Pharetra magna ac placerat vestibulum."
@@ -46,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7C9E0552-4D6A-4735-9B41-D7BF43C14FB2",
-    "height": 90,
-    "width": 276,
-    "x": 12,
-    "y": 80
+    "height": 72,
+    "width": 314,
+    "x": 0,
+    "y": 58
   },
-  "glyphBounds": "{{0, 4}, {267, 87}}",
+  "glyphBounds": "{{0, 4}, {315, 69}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si Copy 2",
+  "name": "Lorem ipsum dolor si",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,6 +120,11 @@
             "name": "Helvetica",
             "size": 15
           }
+        },
+        "kerning": -1,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3
         },
         "textStyleVerticalAlignmentKey": 0
       },

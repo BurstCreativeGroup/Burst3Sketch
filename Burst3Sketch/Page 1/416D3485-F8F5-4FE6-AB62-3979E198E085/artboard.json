@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4917,
+    "height": 5144,
     "width": 1920,
     "x": 22254,
     "y": 39
@@ -51,6 +51,18 @@
     {
       "class": "group",
       "id": "53913AA5-1330-4100-BCBD-BD38F5E1BAA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B75BE39-6523-405A-A9F6-E49B35F799A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B45073D-C226-4775-BECD-2310AB8E1804"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE028819-5A27-48A5-ADB3-55BFF98567F0"
     },
     {
       "class": "text",

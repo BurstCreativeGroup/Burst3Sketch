@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "PRINT"
+    "string": "Print"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "F7CBA141-4EFD-4D05-8F22-881F504CB4D2",
     "height": 60,
-    "width": 142,
+    "width": 101,
     "x": 1179,
     "y": 2295
   },
-  "glyphBounds": "{{3, 13}, {138, 36}}",
+  "glyphBounds": "{{3, 13}, {96, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PRINT",
+  "name": "Print",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

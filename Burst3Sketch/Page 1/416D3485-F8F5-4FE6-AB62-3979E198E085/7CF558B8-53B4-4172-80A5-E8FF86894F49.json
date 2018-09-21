@@ -16,14 +16,46 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "Helvetica-Light",
               "size": 35
             }
           },
+          "kerning": -0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 309,
+        "length": 308,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Light",
+              "size": 35
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 308
       }
     ],
     "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vel facilisis volutpat est velit egestas dui id. Tellus orci ac auctor augue mauris. Sagittis purus sit amet volutpat consequat. Ac felis donec et odio pellentesque diam volutpat."
@@ -46,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BF770F8-3F89-4DEB-BB3D-07FF1E3FDA58",
-    "height": 286,
-    "width": 888,
-    "x": 868,
-    "y": 1790
+    "height": 334,
+    "width": 667,
+    "x": 1028,
+    "y": 1800
   },
-  "glyphBounds": "{{0, 8}, {863, 244}}",
+  "glyphBounds": "{{0, 8}, {667, 328}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -85,9 +117,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "Helvetica-Light",
             "size": 35
           }
+        },
+        "kerning": -0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3
         },
         "textStyleVerticalAlignmentKey": 0
       },

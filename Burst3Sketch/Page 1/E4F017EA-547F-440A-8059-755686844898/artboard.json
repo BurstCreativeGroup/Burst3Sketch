@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6602,
+    "height": 6118,
     "width": 1024,
     "x": 1887,
     "y": -25
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -71,10 +71,6 @@
     {
       "class": "group",
       "id": "AA7C52B1-0A81-4EF4-803A-D4968FB3F7E7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "282F3530-3839-42B5-A3E4-30C5FF18A65F"
     },
     {
       "class": "shapeGroup",

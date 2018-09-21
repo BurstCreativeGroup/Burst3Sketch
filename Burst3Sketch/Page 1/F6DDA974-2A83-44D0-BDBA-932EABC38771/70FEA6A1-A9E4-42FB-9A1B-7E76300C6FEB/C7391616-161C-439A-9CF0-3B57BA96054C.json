@@ -50,9 +50,9 @@
     "constrainProportions": false,
     "do_objectID": "30D0AE09-B107-4BFE-9D62-0311CC375C01",
     "height": 42,
-    "width": 427,
-    "x": 25,
-    "y": 25
+    "width": 447,
+    "x": 60,
+    "y": 22
   },
   "glyphBounds": "{{2, 8}, {424, 27}}",
   "isFixedToViewport": false,
@@ -101,7 +101,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

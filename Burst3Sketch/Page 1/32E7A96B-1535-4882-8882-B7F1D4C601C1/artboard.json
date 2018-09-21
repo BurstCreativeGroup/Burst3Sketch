@@ -57,6 +57,18 @@
       "id": "E2E242AC-22A5-4EED-B937-927B346DF2E6"
     },
     {
+      "class": "shapeGroup",
+      "id": "5C2FB09B-FF1A-48BC-9250-8EC2391FF204"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E744AAE6-0A90-419A-A4DF-BC62C88795D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA1D5F6C-FAEA-4046-BFB5-37E504FCA6C7"
+    },
+    {
       "class": "bitmap",
       "id": "2DC1E8BB-C4B2-4C62-8057-013F90CEAD24"
     },
@@ -86,11 +98,11 @@
     },
     {
       "class": "text",
-      "id": "B5EA9F1B-4E2A-439A-9DEA-D9FB07123293"
+      "id": "403F3DEA-81BC-4BB8-B831-F230E843FA5B"
     },
     {
       "class": "text",
-      "id": "9565B477-10D6-4FF3-BC63-C1FF813D5058"
+      "id": "E1E81CFD-DFA4-4921-9668-D9FA344A966F"
     },
     {
       "class": "shapeGroup",

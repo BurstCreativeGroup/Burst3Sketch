@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2646,
+    "height": 2714,
     "width": 1940,
-    "x": -12,
-    "y": 5926
+    "x": -20,
+    "y": 5857
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",

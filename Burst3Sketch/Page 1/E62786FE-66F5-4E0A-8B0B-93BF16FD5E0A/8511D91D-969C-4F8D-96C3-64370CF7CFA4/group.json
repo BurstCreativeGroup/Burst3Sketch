@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 808,
-    "width": 313,
-    "x": 40,
+    "width": 442,
+    "x": -16,
     "y": 982
   },
   "hasClickThrough": false,
@@ -29,15 +29,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0A504605-FB6D-4696-BB75-5C5CC916D3FE"
-    },
-    {
-      "class": "symbolInstance",
       "id": "B42461D1-E41E-43CC-892B-171DDAA6335B"
     },
     {
       "class": "text",
       "id": "34BC2C37-07DE-40A2-A266-9D9803C01C9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CE4B941-5548-45B9-98F1-F34904D38B2F"
     },
     {
       "class": "bitmap",

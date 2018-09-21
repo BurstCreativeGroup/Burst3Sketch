@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "PACKAGING"
+    "string": "Packaging"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "293221ED-BE8B-4942-BB9F-145D861E4778",
     "height": 60,
-    "width": 291,
+    "width": 239,
     "x": 1177,
     "y": 2425
   },
-  "glyphBounds": "{{3, 12}, {284, 38}}",
+  "glyphBounds": "{{3, 13}, {233, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PACKAGING",
+  "name": "Packaging",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
